@@ -1,0 +1,99 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="AutoImportSettings">
+    <option name="autoReloadType" value="SELECTIVE" />
+  </component>
+  <component name="ChangeListManager">
+    <list default="true" id="5a91cc42-cd4a-4488-b8e3-d0a8d9e4f022" name="Changes" comment="">
+      <change beforePath="$PROJECT_DIR$/Week02/01_RAG_basic_demo/01-文档加载器.ipynb" beforeDir="false" afterPath="$PROJECT_DIR$/Week02/01_RAG_basic_demo/01-Document Loader.ipynb" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Week02/01_RAG_basic_demo/02-文档切分器.ipynb" beforeDir="false" afterPath="$PROJECT_DIR$/Week02/01_RAG_basic_demo/02-Document Splitter.ipynb" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Week02/01_RAG_basic_demo/03-文档嵌入模型.ipynb" beforeDir="false" afterPath="$PROJECT_DIR$/Week02/01_RAG_basic_demo/03-Document Embedding Models.ipynb" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Week02/01_RAG_basic_demo/04-Milvus的基本使用.ipynb" beforeDir="false" afterPath="$PROJECT_DIR$/Week02/01_RAG_basic_demo/04-Basic Usage of Milvus.ipynb" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Week02/01_RAG_basic_demo/05-案例：Atguigu Assistant客服知识库.ipynb" beforeDir="false" afterPath="$PROJECT_DIR$/Week02/01_RAG_basic_demo/05_Case_Study_Assistant_Customer_Service_Knowledge_Base.ipynb" afterDir="false" />
+    </list>
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
+  </component>
+  <component name="GitHubPullRequestSearchHistory"><![CDATA[{
+  "lastFilter": {
+    "state": "OPEN",
+    "assignee": "wxshen-dev"
+  }
+}]]></component>
+  <component name="GithubPullRequestsUISettings"><![CDATA[{
+  "selectedUrlAndAccountId": {
+    "url": "https://github.com/wxshen-dev/IST-343_Learning_Progress.git",
+    "accountId": "93dc2ea6-5be3-492b-90c2-303618e90d38"
+  }
+}]]></component>
+  <component name="ProjectColorInfo"><![CDATA[{
+  "associatedIndex": 2
+}]]></component>
+  <component name="ProjectId" id="3JR8FtDWrD0B1fQoKLBphNRW0KI" />
+  <component name="ProjectViewState">
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showLibraryContents" value="true" />
+  </component>
+  <component name="PropertiesComponent"><![CDATA[{
+  "keyToString": {
+    "RunOnceActivity.ShowReadmeOnStart": "true",
+    "RunOnceActivity.git.unshallow": "true",
+    "git-widget-placeholder": "main",
+    "ignore.virus.scanning.warn.message": "true",
+    "last_opened_file_path": "C:/Users/shena/OneDrive - Claremont Graduate University/PhD_Program/IST_343/Weekly_Learning_Progress/Week03",
+    "node.js.detected.package.eslint": "true",
+    "node.js.detected.package.tslint": "true",
+    "node.js.selected.package.eslint": "(autodetect)",
+    "node.js.selected.package.tslint": "(autodetect)",
+    "nodejs_package_manager_path": "npm",
+    "vue.rearranger.settings.migration": "true"
+  }
+}]]></component>
+  <component name="RecentsManager">
+    <key name="CopyFile.RECENT_KEYS">
+      <recent name="C:\Users\shena\OneDrive - Claremont Graduate University\PhD_Program\IST_343\Weekly_Learning_Progress\Week03" />
+    </key>
+    <key name="MoveFile.RECENT_KEYS">
+      <recent name="C:\Users\shena\OneDrive - Claremont Graduate University\PhD_Program\IST_343\Weekly_Learning_Progress\Week03\01_LangGraph" />
+    </key>
+  </component>
+  <component name="SharedIndexes">
+    <attachedChunks>
+      <set>
+        <option value="bundled-js-predefined-d6986cc7102b-822845ee3bb5-JavaScript-PY-243.23654.177" />
+        <option value="bundled-python-sdk-91d3a02ef49d-43b77aa2d136-com.jetbrains.pycharm.pro.sharedIndexes.bundled-PY-243.23654.177" />
+      </set>
+    </attachedChunks>
+  </component>
+  <component name="SpellCheckerSettings" RuntimeDictionaries="0" Folders="0" CustomDictionaries="0" DefaultDictionary="application-level" UseSingleDictionary="true" transferred="true" />
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="5a91cc42-cd4a-4488-b8e3-d0a8d9e4f022" name="Changes" comment="" />
+      <created>1789612419740</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1789612419740</updated>
+      <workItem from="1789612420804" duration="2247000" />
+    </task>
+    <servers />
+  </component>
+  <component name="TypeScriptGeneratedFilesManager">
+    <option name="version" value="3" />
+  </component>
+  <component name="Vcs.Log.Tabs.Properties">
+    <option name="TAB_STATES">
+      <map>
+        <entry key="MAIN">
+          <value>
+            <State />
+          </value>
+        </entry>
+      </map>
+    </option>
+  </component>
+</project>
