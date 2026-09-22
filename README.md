@@ -34,7 +34,15 @@ Weekly_Learning_Progress/
       chapter02/
         Edges, routing, parallel execution, dynamic send, Command, fan-in, map-reduce, loops, retry, and cache
   Week03/
+    00_Basic_RAG_Pipeline.ipynb
+      A self-contained loading, splitting, chunking, TF-IDF vectorization, retrieval, and query demo
+    01_LangGraph/
+      chapter03/
+        Persistence, checkpoints, state history, replay, forking, store, and context examples
+      chapter04/
+        Human-in-the-loop, interrupts, approvals, parallel execution, and tool-call examples
   Week04/
+    LangGraph state, checkpoints, subgraphs, workflows, routing, and agent examples
   Week05/
   Week06/
   Week07/
@@ -51,17 +59,16 @@ Weekly_Learning_Progress/
 
 ## Current Focus
 
-The immediate learning goal is to build a basic RAG pipeline that can:
+The basic local RAG pipeline in `Week03/00_Basic_RAG_Pipeline.ipynb` now demonstrates:
 
-1. Load sample documents.
-2. Split text into chunks.
-3. Generate embeddings.
-4. Store vectors in a vector database.
-5. Retrieve relevant chunks for a user question.
-6. Pass retrieved context to an LLM for grounded answer generation.
-7. Inspect retrieved chunks and identify common retrieval errors.
+1. Creating and loading sample text documents.
+2. Cleaning and splitting text into sentences.
+3. Building overlapping word chunks.
+4. Converting chunks and a query into TF-IDF vectors.
+5. Ranking chunks with cosine similarity.
+6. Building a grounded prompt and simple extractive answer with source attribution.
 
-Week 02 materials currently support this goal through RAG practice notebooks and LangGraph workflow examples.
+The notebook uses only the Python standard library, so it can be run from top to bottom without an API key or external vector database. The next step is to replace the local demo components with project documents, model-based embeddings, a persistent vector store, and an LLM generation call.
 
 ## Evidence Tracking
 
